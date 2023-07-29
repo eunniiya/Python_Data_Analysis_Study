@@ -2,7 +2,7 @@
 
 #### [아니콘다 설치 링크]
 ```
-https://www.anaconda.com/products/distribution
+[아나콘다 설치 주소](https://www.anaconda.com/products/distribution)
 ```
 
 <img width="1073" alt="image" src="https://github.com/sm9199/Python_Data_Analysis_Study/assets/128019851/b22126b0-c827-4034-8a36-191872d375c1">

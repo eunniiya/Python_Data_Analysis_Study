@@ -45,3 +45,36 @@
 #### 에디트 모드와 커맨드 모드
    - 에디트 모드 : 셀에 코드를 입력하거나 수정할 수 있는 상태
    - 커맨드 모드 : 셀을 편집할 수 있는 상태
+
+|기능|단축키|
+|:---:|:---:|
+|셀 삭제|D 연속 두번|
+|셀 복사|C|
+|셀 잘라내기|X|
+|셀 아래에 셀 붙여넣기|V|
+|셀 위에 새 셀 추가하기|A|
+|셀 아래에 새 셀 추가하기|B|
+
+--------------------------------
+
+#### ✔️ Do it! 실습 - 노트북 저장하기, 노트북 열기
+
+<img width="728" alt="image" src="https://github.com/sm9199/Python_Data_Analysis_Study/assets/128019851/0dcea75e-56ad-463d-8d52-d0b694cd466d">
+
+
+--------------------------------
+
+#### ✔️ Do it! 실습 - 워킹 디렉터리 다루기
+
+- 워킹 디렉터리 아이콘
+
+<img width="287" alt="image" src="https://github.com/sm9199/Python_Data_Analysis_Study/assets/128019851/89598521-3300-4d3c-91fe-11f71fbf73f1">
+
+- 워킹 디렉터리 경로
+
+```
+❗ 'C:/Users/user/easy_python
+```
+
+<img width="737" alt="image" src="https://github.com/sm9199/Python_Data_Analysis_Study/assets/128019851/c26acadd-74c1-414d-b3de-dd3af92b7d6d">
+

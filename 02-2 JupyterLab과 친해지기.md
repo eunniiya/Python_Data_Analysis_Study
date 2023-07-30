@@ -1,4 +1,4 @@
-### 📌 JupyterLab과 친해지기
+## 📌 JupyterLab과 친해지기
 
 #### ✔️ Do it! 실습 - JupyterLab 실행하기
 

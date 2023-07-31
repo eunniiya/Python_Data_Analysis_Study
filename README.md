@@ -6,9 +6,9 @@
 <summary> :file_folder: 01. 안녕 파이썬? </summary>
 <div markdown="1">
 
-#### 📌 [01-1 데이터 분석과 파이썬](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/01.%20파이썬이랑%20친해지기/01-1%20데이터%20분석과%20파이썬.md)
+#### 📌 [01-1 데이터 분석과 파이썬](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/01.%20안녕,%20파이썬?/01-1%20데이터%20분석과%20파이썬.md)
 
-#### 📌 [01-2 파이썬이 강력한 데이터 분석 도구인 이유](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/01.%20파이썬이랑%20친해지기/01-2%20파이썬이%20강력한%20데이터%20분석도구인%20이유.md)
+#### 📌 [01-2 파이썬이 강력한 데이터 분석 도구인 이유](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/01.%20안녕,%20파이썬?/01-2%20파이썬이%20강력한%20데이터%20분석도구인%20이유.md)
 
 </div>
 </details>
@@ -17,9 +17,9 @@
 <summary> :file_folder: 02. 파이썬 데이터 분석 환경 만들기 </summary>
 <div markdown="1">
 
-#### 🔖 [02-1 아나콘다로 파이썬과 JupyterLab 설치하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/01.%20파이썬이랑%20친해지기/02-1%20아나콘다로%20파이썬과%20JupyterLab%20설치하기.md)
+#### 🔖 [02-1 아나콘다로 파이썬과 JupyterLab 설치하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/02.%20파이썬%20데이터%20분석%20환경%20만들기/02-1%20아나콘다로%20파이썬과%20JupyterLab%20설치하기.md)
 
-#### 🔖 [02-2 JupyterLab과 설치하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/01.%20파이썬이랑%20친해지기/02-2%20JupyterLab과%20친해지기.md)
+#### 🔖 [02-2 JupyterLab과 설치하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/02.%20파이썬%20데이터%20분석%20환경%20만들기/02-2%20JupyterLab과%20친해지기.md)
 
 </div>
 </details>

@@ -6,9 +6,9 @@
 <summary> :file_folder: 01. 안녕 파이썬? </summary>
 <div markdown="1">
 
-#### 📌 [01-1 데이터 분석과 파이썬](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/01.%20안녕,%20파이썬?/01-1%20데이터%20분석과%20파이썬.md)
+#### 📌 [01-1 데이터 분석과 파이썬](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/01.%20안녕%2C%20파이썬%3F/01-1%20데이터%20분석과%20파이썬.md)
 
-#### 📌 [01-2 파이썬이 강력한 데이터 분석 도구인 이유](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/01.%20안녕,%20파이썬?/01-2%20파이썬이%20강력한%20데이터%20분석도구인%20이유.md)
+#### 📌 [01-2 파이썬이 강력한 데이터 분석 도구인 이유](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/01.%20안녕%2C%20파이썬%3F/01-2%20파이썬이%20강력한%20데이터%20분석도구인%20이유.md)
 
 </div>
 </details>

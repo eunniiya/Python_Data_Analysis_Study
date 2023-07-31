@@ -17,9 +17,9 @@
 <summary> :file_folder: 02. 파이썬 데이터 분석 환경 만들기 </summary>
 <div markdown="1">
 
-#### 🔖 [02-1 아나콘다로 파이썬과 JupyterLab 설치하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/02-1%20아나콘다로%20파이썬과%20JupyterLab%20설치하기.md)
+#### 🔖 [02-1 아나콘다로 파이썬과 JupyterLab 설치하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/01.%20파이썬이랑%20친해지기/02-1%20아나콘다로%20파이썬과%20JupyterLab%20설치하기.md)
 
-#### 🔖 [02-2 JupyterLab과 설치하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/02-2%20JupyterLab과%20친해지기.md)
+#### 🔖 [02-2 JupyterLab과 설치하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/01.%20파이썬이랑%20친해지기/02-2%20JupyterLab과%20친해지기.md)
 
 </div>
 </details>
@@ -28,11 +28,11 @@
 <summary> :file_folder: 03. 데이터 분석에 필요한 연장 챙기기 </summary>
 <div markdown="1">
 
-#### 🔖 [03-1 변하는 수, '변수' 이해하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/03-1%20변하는%20수,%20'변수'%20이해하기.md)
+#### 🔖 [03-1 변하는 수, '변수' 이해하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/01.%20파이썬이랑%20친해지기/03-1%20변하는%20수,%20'변수'%20이해하기.md)
 
-#### 🔖 [03-2 마술 상자 같은 '함수' 이해하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/03-2%20마술%20상자%20같은%20'함수'%20이해하기.md)
+#### 🔖 [03-2 마술 상자 같은 '함수' 이해하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/01.%20파이썬이랑%20친해지기/03-2%20마술%20상자%20같은%20'함수'%20이해하기.md)
 
-#### 🔖 [03-3 함수 꾸러미, '패키지' 이해하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/03-3%20함수%20꾸러미,%20'패키지'%20이해하기.md)
+#### 🔖 [03-3 함수 꾸러미, '패키지' 이해하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/01.%20파이썬이랑%20친해지기/03-3%20함수%20꾸러미,%20'패키지'%20이해하기.md)
 
 </div>
 </details>
@@ -41,7 +41,7 @@
 <summary> :file_folder: 04. 데이터 프레임의 세계로 </summary>
 <div markdown="1">
 
-#### 🔖 [04-1 데이터 프레임 이해하기 - 데이터는 어떻게 생겼나?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/04-1%20데이터%20프레임%20이해하기.md)
+#### 🔖 [04-1 데이터 프레임 이해하기 - 데이터는 어떻게 생겼나?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/02.%20본격%20실습%2004-1%20데이터%20프레임%20이해하기.md)
 
 #### 🔖 [04-2 데이터 프레임 만들기 - 시험 성적 데이터를 만들어 보자! - ver.뉴진스](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/04-2%20데이터%20프레임%20만들기.md)
 

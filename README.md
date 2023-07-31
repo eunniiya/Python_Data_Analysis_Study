@@ -28,7 +28,7 @@
 <summary> :file_folder: 03. 데이터 분석에 필요한 연장 챙기기 </summary>
 <div markdown="1">
 
-#### 🔖 [03-1 변하는 수, '변수' 이해하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/03-1%20변하는%20수,'변수'%20이해하기.md)
+#### 🔖 [03-1 변하는 수, '변수' 이해하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/03-1%20변하는%20수,%20'변수'%20이해하기.md)
 
 #### 🔖 [03-2 마술 상자 같은 '함수' 이해하기](https://github.com/Seonghyun-Park/Web/blob/main/04-2%20목록%20만들기.md)
 

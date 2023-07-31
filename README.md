@@ -43,6 +43,7 @@
 
 #### 🔖 [04-1 데이터 프레임 이해하기 - 데이터는 어떻게 생겼나?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/04-1%20데이터%20프레임%20이해하기.md)
 
+#### 🔖 [04-2 데이터 프레임 만들기 - 시험 성적 데이터를 만들어 보자! - ver.뉴진스](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/04-2%20데이터%20프레임%20만들기.md)
 
 </div>
 </details>

@@ -41,10 +41,11 @@
 <summary> :file_folder: 04. 데이터 프레임의 세계로! </summary>
 <div markdown="1">
 
-#### 🔖 [04-1 데이터 프레임 이해하기 - 데이터는 어떻게 생겼나?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/02.%20본격%20실습%2004-1%20데이터%20프레임%20이해하기.md)
+#### 🔖 [04-1 데이터 프레임 이해하기 - 데이터는 어떻게 생겼나?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/04.%20데이터%20프레임의%20세계로!/04-1%20데이터%20프레임%20이해하기.md)
 
-#### 🔖 [04-2 데이터 프레임 만들기 - 시험 성적 데이터를 만들어 보자! - ver.뉴진스](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/04-2%20데이터%20프레임%20만들기.md)
+#### 🔖 [04-2 데이터 프레임 만들기 - 시험 성적 데이터를 만들어 보자! - ver.뉴진스](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/04.%20데이터%20프레임의%20세계로!/04-2%20데이터%20프레임%20만들기.md)
 
+#### 🔖 [04-3 외부 데이터 이용하기 - 축적된 시험 성적 데이터를 불러오자!](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/04.%20데이터%20프레임의%20세계로!/04-3%20외부데이터%20이용하기.md)
 </div>
 </details>
 

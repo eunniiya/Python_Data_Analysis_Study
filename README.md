@@ -17,9 +17,9 @@
 <summary> :file_folder: 02. 파이썬 데이터 분석 환경 만들기 </summary>
 <div markdown="1">
 
-#### 🔖 [02-1 아나콘다로 파이썬과 JupyterLab 설치하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/아나콘다로%20파이썬과%20JupyterLab%20설치하기.md)
+#### 🔖 [02-1 아나콘다로 파이썬과 JupyterLab 설치하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/02-1%20아나콘다로%20파이썬과%20JupyterLab%20설치하기.md)
 
-#### 🔖 [02-2 JupyterLab과 설치하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/JupyterLab과%20친해지기.md)
+#### 🔖 [02-2 JupyterLab과 설치하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/02-2%20JupyterLab과%20친해지기.md)
 
 </div>
 </details>

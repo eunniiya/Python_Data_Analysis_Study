@@ -46,7 +46,16 @@
 #### 🔖 [04-2 데이터 프레임 만들기 - 시험 성적 데이터를 만들어 보자! - ver.뉴진스](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/04.%20데이터%20프레임의%20세계로!/04-2%20데이터%20프레임%20만들기.md)
 
 #### 🔖 [04-3 외부 데이터 이용하기 - 축적된 시험 성적 데이터를 불러오자!](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/04.%20데이터%20프레임의%20세계로!/04-3%20외부데이터%20이용하기.md)
+
+
+<details>
+<summary> :file_folder: 05. 데이터 분석 기초! - 데이터 파악하기, 다루기 쉽게 수정하 </summary>
+<div markdown="1">
+
+#### 📌 [05-1 데이터 파악하](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/05.%20데이터%20분석%20기초!%20%20-%20데이터%20파악하기%2C%20다루기%20쉽게%20수정하기.md)
+
 </div>
 </details>
+
 
 

@@ -57,6 +57,8 @@
 
 #### 📌 [05-1 데이터 파악하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/05.%20데이터%20분석%20기초!%20%20-%20데이터%20파악하기%2C%20다루기%20쉽게%20수정하기/05-1%20데이터%20파악하기.md)
 
+#### 📌 [05-2 변수명 바꾸기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/05.%20데이터%20분석%20기초!%20%20-%20데이터%20파악하기%2C%20다루기%20쉽게%20수정하기/05-2%20변수명%20바꾸기.md)
+
 </div>
 </details>
 

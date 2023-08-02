@@ -59,6 +59,10 @@
 
 #### 📌 [05-2 변수명 바꾸기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/05.%20데이터%20분석%20기초!%20%20-%20데이터%20파악하기%2C%20다루기%20쉽게%20수정하기/05-2%20변수명%20바꾸기.md)
 
+#### 📌 [05-3 파생변수 만들기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/05.%20데이터%20분석%20기초!%20%20-%20데이터%20파악하기,%20다루기%20쉽게%20수정하기/05-3%20파생변수%20만들기.md)
+
+#### 📌 [🔖 분석 도전](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/05.%20데이터%20분석%20기초!%20%20-%20데이터%20파악하기%2C%20다루기%20쉽게%20수정하기/05%20분석%20도전.md)
+
 </div>
 </details>
 

@@ -66,5 +66,13 @@
 </div>
 </details>
 
+<details>
+<summary> :file_folder: 06. 자유자재로 데이터 가공하기 </summary>
+<div markdown="1">
+
+#### 📌 [06-1 데이터 전처리 - 원하는 형태로 데이터 가공하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/06.%20자유자재로%20데이터%20가공하기/06-1%20데이터%20전처리%20-%20원하는%20형태로%20데이터%20가공하기.md)
+
+
+
 
 

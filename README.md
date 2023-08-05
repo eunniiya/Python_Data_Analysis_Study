@@ -76,3 +76,4 @@
 
 #### 📌 [06-3 필요한 변수만 추출하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/06.%20자유자재로%20데이터%20가공하기/06-3%20필요한%20변수만%20추출하기.md)
 
+#### 📌 [06-4 순서대로 정렬하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/06.%20자유자재로%20데이터%20가공하기/06-3%20필요한%20변수만%20추출하기.md)

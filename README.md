@@ -64,7 +64,7 @@
 
 #### 📌 [05-4 정리하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/05.%20데이터%20분석%20기초!%20%20-%20데이터%20파악하기%2C%20다루기%20쉽게%20수정하기/05-5%20분석%20도전.md)
 
-#### 📌 [분석 도전](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/05.%20데이터%20분석%20기초!%20%20-%20데이터%20파악하기%2C%20다루기%20쉽게%20수정하기/05%20분석%20도전.md)
+#### 📌 [05-5 분석 도전](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/05.%20데이터%20분석%20기초!%20%20-%20데이터%20파악하기%2C%20다루기%20쉽게%20수정하기/05-5%20분석%20도전.md)
 
 </div>
 </details>

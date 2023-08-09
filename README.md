@@ -88,3 +88,5 @@
 #### 📌 [06-7 데이터 합치기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/06.%20자유자재로%20데이터%20가공하기/06-7%20데이터%20합치기.md)
 
 #### 📌 [06-8 정리하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/06.%20자유자재로%20데이터%20가공하기/06-8%20정리하기.md)
+
+#### 📌 [06-9 분석 도전](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/06.%20자유자재로%20데이터%20가공하기/06-9%20분석%20도전.md)

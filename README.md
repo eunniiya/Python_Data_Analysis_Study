@@ -47,6 +47,7 @@
 
 #### 📌 [04-3 외부 데이터 이용하기 - 축적된 시험 성적 데이터를 불러오자!](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/04.%20데이터%20프레임의%20세계로!/04-3%20외부데이터%20이용하기.md)
 
+#### 📌 [04-4 정리하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/04.%20데이터%20프레임의%20세계로!/04-4%20정리하기.md)
 
 </div>
 </details>
@@ -60,6 +61,8 @@
 #### 📌 [05-2 변수명 바꾸기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/05.%20데이터%20분석%20기초!%20%20-%20데이터%20파악하기%2C%20다루기%20쉽게%20수정하기/05-2%20변수명%20바꾸기.md)
 
 #### 📌 [05-3 파생변수 만들기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/05.%20데이터%20분석%20기초!%20%20-%20데이터%20파악하기,%20다루기%20쉽게%20수정하기/05-3%20파생변수%20만들기.md)
+
+#### 📌 [05-4 정리하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/05.%20데이터%20분석%20기초!%20%20-%20데이터%20파악하기%2C%20다루기%20쉽게%20수정하기/05-4%20정리하기.md)
 
 #### 📌 [분석 도전](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/05.%20데이터%20분석%20기초!%20%20-%20데이터%20파악하기%2C%20다루기%20쉽게%20수정하기/05%20분석%20도전.md)
 
@@ -83,3 +86,5 @@
 #### 📌 [06-6 집단별로 요약하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/06.%20자유자재로%20데이터%20가공하기/06-6%20집단별로%20요약하기.md)
 
 #### 📌 [06-7 데이터 합치기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/06.%20자유자재로%20데이터%20가공하기/06-7%20데이터%20합치기.md)
+
+#### 📌 [06-8 정리하](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/06.%20자유자재로%20데이터%20가공하기/06-8%20정리하기.md)

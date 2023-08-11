@@ -101,6 +101,9 @@
 
 #### 📌 [07-1 빠진 데이터를 찾아라! - 결측치 정제하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/07.%20데이터%20정제%20-%20빠진%20데이터%2C%20이상한%20데이터%20제거하기/07-1%20빠진%20데이터를%20찾아라!.md)
 
+#### 📌 [07-2 이상한 데이터를 찾아라! - 이상 정제하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/07.%20데이터%20정제%20-%20빠진%20데이터%2C%20이상한%20데이터%20제거하기/07-2%20이상한%20데이터를%20찾아라!.md)
+
+#### 📌 [07-3 정리하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/07.%20데이터%20정제%20-%20빠진%20데이터%2C%20이상한%20데이터%20제거하기/07-3%20정리하기.md)
 
 </div>
 </details>

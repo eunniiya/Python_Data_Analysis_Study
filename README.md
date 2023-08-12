@@ -107,3 +107,15 @@
 
 </div>
 </details>
+
+<details>
+<summary> :file_folder: 08. 그래프 만들기 </summary>
+<div markdown="1">
+
+#### 📌 [08-1 파이썬으로 만들 수 있는 그래프 살펴보](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-1%20파이썬으로%20만들%20수%20있는%20그래프%20살펴보기.md)
+
+#### 📌 [08-2 산점도](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-2%20산점도.md)
+
+
+</div>
+</details>

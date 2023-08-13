@@ -121,7 +121,7 @@
 
 #### 📌 [08-5 상자 그림](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-5%20상자%20그림.md)
 
-#### 📌 [08-6 정리하](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-6%20정리하기.md)
+#### 📌 [08-6 정리하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-6%20정리하기.md)
 
 </div>
 </details>

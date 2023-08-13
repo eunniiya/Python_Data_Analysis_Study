@@ -115,6 +115,7 @@
 
 #### 📌 [08-2 산점도](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-2%20산점도.md)
 
+#### 📌 [08-3 막대 그래프](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-3%20막대그래프.md)
 
 </div>
 </details>

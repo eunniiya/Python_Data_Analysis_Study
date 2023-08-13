@@ -117,5 +117,11 @@
 
 #### 📌 [08-3 막대 그래프](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-3%20막대그래프.md)
 
+#### 📌 [08-4 선 그래프](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-4%20선%20그래프.md)
+
+#### 📌 [08-5 상자 그림](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-5%20상자%20그림.md)
+
+#### 📌 [08-6 정리하](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-6%20정리하기.md)
+
 </div>
 </details>

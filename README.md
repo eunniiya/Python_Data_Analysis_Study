@@ -125,3 +125,15 @@
 
 </div>
 </details>
+
+<details>
+<summary> :file_folder: 09. 데이터 분석 프로젝트 - 한국인의 삶을 파악하라! </summary>
+<div markdown="1">
+
+#### 📌 [09-1 09-1 '한국복지패널 데이터' 분석 준비하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/09.%20데이터%20분석%20프로젝트%20-%20한국인의%20삶을%20파악하라!/09-1%20'한국복지패널%20데이터'%20분석%20준비하기.md)
+
+#### 📌 [09-2 성별에 따른 월급차이 - 성별에 따라 월급이 다를까?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-2%20산점도.md)
+
+
+</div>
+</details>

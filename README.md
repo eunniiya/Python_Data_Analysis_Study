@@ -1,5 +1,8 @@
 ![image](https://github.com/sm9199/Python_Data_Analysis_Study/assets/128019851/9687c6c3-2e91-466f-9da9-abae4e090101)
 
+
+
+
 # 📈 Do it! 쉽게 배우는 파이썬 데이터 분석 
 
 <details>
@@ -115,32 +118,6 @@
 
 #### 📌 [08-2 산점도](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-2%20산점도.md)
 
-#### 📌 [08-3 막대 그래프](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-3%20막대그래프.md)
-
-#### 📌 [08-4 선 그래프](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-4%20선%20그래프.md)
-
-#### 📌 [08-5 상자 그림](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-5%20상자%20그림.md)
-
-#### 📌 [08-6 정리하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-6%20정리하기.md)
-
-</div>
-</details>
-
-<details>
-<summary> :file_folder: 09. 데이터 분석 프로젝트 - 한국인의 삶을 파악하라! </summary>
-<div markdown="1">
-
-#### 📌 [09-1 '한국복지패널 데이터' 분석 준비하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/09.%20데이터%20분석%20프로젝트%20-%20한국인의%20삶을%20파악하라!/09-1%20'한국복지패널%20데이터'%20분석%20준비하기.md)
-
-#### 📌 [09-2 성별에 따른 월급차이 - 성별에 따라 월급이 다를까?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/09.%20데이터%20분석%20프로젝트%20-%20한국인의%20삶을%20파악하라!/09-2%20성별에%20따른%20월급%20차이%20-%20성별에%20따라%20월급이%20다를까%3F.md)
-
-#### 📌 [09-3 나이와 월급의 관계 - 몇 살 때 월급을 가장 많이 받을까?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/09.%20데이터%20분석%20프로젝트%20-%20한국인의%20삶을%20파악하라!/09-3%20나이와%20월급의%20관계%20-%20몇%20살%20때%20월급을%20가장%20많이%20받을까%3F.md)
-
-#### 📌 [09-4 연령대에 따른 월급 차이 - 어떤 연령대의 월급이 가장 많을까?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/09.%20데이터%20분석%20프로젝트%20-%20한국인의%20삶을%20파악하라!/09-4%20연령대에%20따른%20월급%20차이%20-%20어떤%20연령대의%20월급이%20가장%20많을까%3F.md)
-
-#### 📌 [09-5 연령대 및 성별 월급 차이 - 성별 월급 차이는 연령대별로 다를까?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/09.%20데이터%20분석%20프로젝트%20-%20한국인의%20삶을%20파악하라!/09-5%20연령대%20및%20성별%20월급%20차이%20-%20성별%20월급%20차이는%20연령대별로%20다를까%3F.md)
-
-#### 📌 [09-6 직업별 월급 차이 - 어떤 직업이 월급을 가장 많이 받을까?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/09.%20데이터%20분석%20프로젝트%20-%20한국인의%20삶을%20파악하라!/09-6%20직업별%20월급%20차이%20-%20어떤%20직업이%20월급을%20가장%20많이%20받을까%3F.md)
 
 </div>
 </details>

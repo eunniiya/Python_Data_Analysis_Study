@@ -113,10 +113,74 @@
 <summary> :file_folder: 08. 그래프 만들기 </summary>
 <div markdown="1">
 
-#### 📌 [08-1 파이썬으로 만들 수 있는 그래프 살펴보](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-1%20파이썬으로%20만들%20수%20있는%20그래프%20살펴보기.md)
+#### 📌 [08-1 파이썬으로 만들 수 있는 그래프 살펴보기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-1%20파이썬으로%20만들%20수%20있는%20그래프%20살펴보기.md)
 
 #### 📌 [08-2 산점도](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-2%20산점도.md)
 
+#### 📌 [08-3 막대 그래프](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-3%20막대그래프.md)
+
+#### 📌 [08-4 선 그래프](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-4%20선%20그래프.md)
+
+#### 📌 [08-5 상자 그림](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-5%20상자%20그림.md)
+
+#### 📌 [08-6 정리하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/08.%20그래프%20만들기/08-6%20정리하기.md)
+
+</div>
+</details>
+
+
+<details>
+<summary> :file_folder: 09. 데이터 분석 프로젝트 - 한국인의 삶을 파악하라! </summary>
+<div markdown="1">
+
+
+#### 📌 [09-1 '한국복지패널 데이터' 분석 준비하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/09.%20데이터%20분석%20프로젝트%20-%20한국인의%20삶을%20파악하라!/09-1%20'한국복지패널%20데이터'%20분석%20준비하기.md)
+
+#### 📌 [09-2 성별에 따른 월급 차이 - 성별에 따라 월급이 다를까?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/09.%20데이터%20분석%20프로젝트%20-%20한국인의%20삶을%20파악하라!/09-2%20성별에%20따른%20월급%20차이%20-%20성별에%20따라%20월급이%20다를까%3F.md)
+
+#### 📌 [09-3 나이와 월급의 관계 - 몇 살 때 월급을 가장 많이 받을까?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/09.%20데이터%20분석%20프로젝트%20-%20한국인의%20삶을%20파악하라!/09-3%20나이와%20월급의%20관계%20-%20몇%20살%20때%20월급을%20가장%20많이%20받을까%3F.md)
+
+#### 📌 [09-4 연령대에 따른 월급 차이 - 어떤 연령대의 월급이 가장 많을까?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/09.%20데이터%20분석%20프로젝트%20-%20한국인의%20삶을%20파악하라!/09-4%20연령대에%20따른%20월급%20차이%20-%20어떤%20연령대의%20월급이%20가장%20많을까%3F.md)
+
+#### 📌 [09-5 연령대 및 성별 월급 차이 - 성별 월급 차이는 연령대별로 다를까?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/09.%20데이터%20분석%20프로젝트%20-%20한국인의%20삶을%20파악하라!/09-5%20연령대%20및%20성별%20월급%20차이%20-%20성별%20월급%20차이는%20연령대별로%20다를까%3F.md)
+
+#### 📌 [09-6 직업별 월급 차이 - 어떤 직업이 월급을 가장 많이 받을까?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/09.%20데이터%20분석%20프로젝트%20-%20한국인의%20삶을%20파악하라!/09-6%20직업별%20월급%20차이%20-%20어떤%20직업이%20월급을%20가장%20많이%20받을까%3F.md)
+
+#### 📌 [09-7 성별 직업 빈도 - 성별로 어떤 직업이 가장 많을까?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/09.%20데이터%20분석%20프로젝트%20-%20한국인의%20삶을%20파악하라!/09-7%20성별%20직업%20빈도%20-%20성별로%20어떤%20직업이%20가장%20많을까%3F.md)
+
+#### 📌 [09-8 종교 유무에 따른 이혼율 - 종교가 있으면 이혼을 덜 할까?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/09.%20데이터%20분석%20프로젝트%20-%20한국인의%20삶을%20파악하라!/09-8%20종교%20유무에%20따른%20이혼율%20-%20종교가%20있으면%20이혼을%20덜%20할까%3F.md)
+
+#### 📌 [09-9 지역별 연령대 비율 - 어느 지역에 노년층이 많을까?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/09.%20데이터%20분석%20프로젝트%20-%20한국인의%20삶을%20파악하라!/09-9%20지역별%20연령대%20비율%20-%20어느%20지역에%20노년층이%20많을까%3F.md)
+
+
+</div>
+</details>
+
+<details>
+<summary> :file_folder: 10. 텍스트 마이닝 </summary>
+<div markdown="1">
+
+#### 📌 [10-1 대통령 연설문 텍스트 마이닝](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/10.%20텍스트%20마이닝/10-1%20대통령%20연설문%20텍스트%20마이닝.md)
+
+</div>
+</details>
+
+<details>
+<summary> :file_folder: 11. 지도 시각화 </summary>
+<div markdown="1">
+
+#### 📌 [11-1 시군구별 인구 단계 구분도 만들기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/11.%20지도%20시각화/11-1%20시군구별%20인구%20단계%20구분도%20만들기.md)
+
+#### 📌 [11-2 서울시 동별 외국인 인구 단계 구분도 만들기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/11.%20지도%20시각화/11-2%20서울시%20동별%20외국인%20인구%20단계%20구분도%20만들기.md)
+
+</div>
+</details>
+
+<details>
+<summary> :file_folder: 12. 인터랙티브 그래프 </summary>
+<div markdown="1">
+
+#### 📌 [12-1 인터랙티브 그래프 만들기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/12.%20인터랙티브%20그래프/12-1%20인터랙티브%20그래프%20만들기.md)
 
 </div>
 </details>

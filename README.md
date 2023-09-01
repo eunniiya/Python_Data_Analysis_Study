@@ -183,3 +183,25 @@
 
 </div>
 </details>
+
+<details>
+<summary> :file_folder: 13. 마크다운으로 데이터 분석 보고서 만들기 </summary>
+<div markdown="1">
+
+#### 📌 [13-1 신뢰할 수 있는 데이터 분석 보고서 만들기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/13.%20마크다운으로%20데이터%20분석%20보고서%20만들기/13-1%20신뢰할%20수%20있는%20데이터%20분석%20보고서%20만들기.md)
+
+#### 📌 [13-2 마크다운 문서 만들기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/13.%20마크다운으로%20데이터%20분석%20보고서%20만들기/13-2%20마크다운%20문서%20만들기.md)
+
+</div>
+</details>
+
+<details>
+<summary> :file_folder: 14. 통계 분석 기법을 이용한 가설 검정 </summary>
+<div markdown="1">
+
+#### 📌 [14-1 가설 검정이란?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/14.%20통계%20분석%20기법을%20이용한%20가설%20검정/14-1%20가설%20검정이란%3F.md)
+
+#### 📌 [14-2 t 검정 - 두 집단의 평균 비교하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/14.%20통계%20분석%20기법을%20이용한%20가설%20검정/14-2%20t%20검정%20-%20두%20집단의%20평균%20비교하기.md)
+
+</div>
+</details>

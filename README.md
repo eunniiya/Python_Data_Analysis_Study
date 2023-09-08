@@ -215,4 +215,4 @@
 #### 📌 [15-1 머신러닝 모델 알아보기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/15.%20머신러닝을%20이용한%20예측%20분석/15-1%20머신러닝%20모델%20알아보기.md)
 
 
-#### 📌 [15-2 소득 예측 모델 만들](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/15.%20머신러닝을%20이용한%20예측%20분석/15-2%20소득%20예측%20모델%20만들기.md)
+#### 📌 [15-2 소득 예측 모델 만들기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/15.%20머신러닝을%20이용한%20예측%20분석/15-2%20소득%20예측%20모델%20만들기.md)

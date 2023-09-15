@@ -226,3 +226,16 @@
 #### 📌 [16-1 [] 이용하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/16.%20데이터를%20추출하는%20다양한%20방법/16-1%20%5B%5D%20이용하기.md)
 
 #### 📌 [16-2 df.loc[] 이용하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/16.%20데이터를%20추출하는%20다양한%20방법/16-2%20df.loc%5B%5D%20이용하기.md)
+
+#### 📌 [16-3 df.iloc[] 이용하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/16.%20데이터를%20추출하는%20다양한%20방법/16-3%20df.iloc%5B%5D%20이용하기.md)
+
+#### 📌 [16-4 정리하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/16.%20데이터를%20추출하는%20다양한%20방법/16-4%20정리하기.md)
+
+</div>
+</details>
+
+<details>
+<summary> :file_folder: 17. 자료구조 다루기 </summary>
+<div markdown="1">
+
+#### 📌 [17-1 자료구조란?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/17.%20자료구조%20다루기/17-1%20자료%20구조란%3F.md)

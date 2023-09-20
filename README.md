@@ -239,3 +239,17 @@
 <div markdown="1">
 
 #### 📌 [17-1 자료구조란?](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/17.%20자료구조%20다루기/17-1%20자료%20구조란%3F.md)
+
+#### 📌 [17-2 스칼라](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/17.%20자료구조%20다루기/17-2%20스칼라.md)
+
+#### 📌 [17-3 리스트](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/17.%20자료구조%20다루기/17-3%20리스트.md)
+
+#### 📌 [17-4 튜플](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/17.%20자료구조%20다루기/17-4%20튜플.md)
+
+#### 📌 [17-5 딕셔너리](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/17.%20자료구조%20다루기/17-5%20딕셔너리.md)
+
+#### 📌 [17-6 시리즈](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/17.%20자료구조%20다루기/17-6%20시리즈.md)
+
+#### 📌 [17-7 데이터 프레임](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/17.%20자료구조%20다루기/17-7%20데이터%20프레임.md)
+
+#### 📌 [17-8 정리하기](https://github.com/sm9199/Python_Data_Analysis_Study/blob/main/17.%20자료구조%20다루기/17-1%20자료%20구조란%3F.md)
